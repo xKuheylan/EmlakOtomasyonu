@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryEmlakOdev", "ClassLibraryEmlakOdev.csproj", "{631EED2E-EF91-4327-888A-EE05673F2B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp2", "..\WinFormsApp2\WinFormsApp2.csproj", "{9345DB2D-17DF-45CD-8B0C-2BEC64305041}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakOdev.Presentation", "..\EmlakOdev.Presentation\EmlakOdev.Presentation.csproj", "{D294C954-B832-4AFB-93A4-D47661FCA03D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{631EED2E-EF91-4327-888A-EE05673F2B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{631EED2E-EF91-4327-888A-EE05673F2B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{631EED2E-EF91-4327-888A-EE05673F2B61}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9345DB2D-17DF-45CD-8B0C-2BEC64305041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9345DB2D-17DF-45CD-8B0C-2BEC64305041}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9345DB2D-17DF-45CD-8B0C-2BEC64305041}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9345DB2D-17DF-45CD-8B0C-2BEC64305041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D294C954-B832-4AFB-93A4-D47661FCA03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D294C954-B832-4AFB-93A4-D47661FCA03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D294C954-B832-4AFB-93A4-D47661FCA03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D294C954-B832-4AFB-93A4-D47661FCA03D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
